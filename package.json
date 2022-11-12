@@ -1,0 +1,23 @@
+{
+  "name": "pr_go_todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shifujito/pr_go_todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shifujito/pr_go_todo/issues"
+  },
+  "homepage": "https://github.com/shifujito/pr_go_todo#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.132"
+  }
+}
